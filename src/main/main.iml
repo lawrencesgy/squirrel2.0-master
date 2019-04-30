@@ -19,14 +19,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="lib74" level="project" />
-    <orderEntry type="library" name="lib96" level="project" />
-    <orderEntry type="library" name="jasper2" level="project" />
-    <orderEntry type="library" name="lib5" level="project" />
-    <orderEntry type="library" name="lib59" level="project" />
-    <orderEntry type="library" name="jasper2.1" level="project" />
-    <orderEntry type="library" name="rt1" level="project" />
-    <orderEntry type="library" name="lib3" level="project" />
-    <orderEntry type="library" name="lib77" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
   </component>
 </module>
